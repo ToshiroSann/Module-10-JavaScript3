@@ -1,0 +1,13 @@
+/* * {
+   width: auto; 
+   margin: 0;
+} */
+
+#circle {
+    height: 100px;
+    width: 100px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: block;
+    position: absolute;
+  }
